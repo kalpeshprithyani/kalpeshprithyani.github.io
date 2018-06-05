@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 363.8 411.7" style="enable-background:new 0 0 363.8 411.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#9D713C;stroke-width:10;stroke-miterlimit:10;}
+	.square-anim{
+	animation: dash 1.5s linear forwards;
+	}
+	#st1,#st2{
+	stroke-dasharray: 260;
+  stroke-dashoffset: 260;
+
+	}
+	#st3,#st4{
+	stroke-dasharray: 397;
+  stroke-dashoffset: 397;
+	}
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+</style>
+<polyline id="st1" class="st0" points="144.9,5 5,5 5,124.4 "/>
+<polyline id="st2" class="st0" points="218.9,5 358.8,5 358.8,124.4 "/>
+<polyline id="st3" class="st0" points="182.3,406.7 5,406.7 5,188.2 "/>
+<polyline id="st4" class="st0" points="181.9,406.7 358.8,406.7 358.8,188.2 "/>
+</svg>
