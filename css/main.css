@@ -17,6 +17,8 @@ body{
     font-family: 'Overpass Mono', monospace;
     font-weight: 400;
     background-color: #1c1b1b;
+    overflow-x: hidden;
+    position: relative;
 }
 
 div#preloader {
@@ -35,7 +37,7 @@ div#preloader {
 div#preloader:before{
     content:'';
     position: absolute;
-    background: url('../img/yin_yang.gif') no-repeat center center;
+    background: url('../img/yin_yang2.gif') no-repeat center center;
     background-size: 200px;
     width: 100px;
     height: 150px;
@@ -43,7 +45,6 @@ div#preloader:before{
     top: 50%;
     transform: translate(-50%, -50%);
 }
-
 
 .preload * {
     -webkit-transition: none !important;
